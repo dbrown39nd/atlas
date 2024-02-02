@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723379450493",
+    "project_id": "atlastfit-3172e",
+    "storage_bucket": "atlastfit-3172e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723379450493:android:babca36dfeb849e5acf714",
+        "android_client_info": {
+          "package_name": "com.example.atlas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzrgysgWJkesaioO9txJk2htsvadK4v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723379450493:android:8042360172898650acf714",
+        "android_client_info": {
+          "package_name": "com.example.atlas.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzrgysgWJkesaioO9txJk2htsvadK4v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
